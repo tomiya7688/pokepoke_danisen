@@ -11,3 +11,8 @@
 ### 連絡手段
 
 Lineのオープンチャット　[【ポケポケ】最強攻略グループ](https://line.me/ti/g2/6U50Vv6WszMzbRJpNNdd_t6L_qi4YTGDLd-5HQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) のサブトークルームに設置されている　「ポケポケ段位戦専用トークルーム」に参加してください
+
+## 現在
+
+第六回の参加者を募集しています。
+詳細は [第六回段位戦](第六回/第六回ポケポケ段位戦.md)をご覧ください
